@@ -20,7 +20,7 @@ A conceptual journey into the depths of system-level programming using PHP.
 
 📁 Documentation will be updated regularly in the `docs/` directory.
 
-📡 Stay tuned on our [Telegram Channel](https://t.me/YOUR_CHANNEL)
+📡 Stay tuned on our [Telegram Channel](https://t.me/MrN3x74)
 
 ---
 
